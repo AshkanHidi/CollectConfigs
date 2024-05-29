@@ -1,87 +1,17 @@
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+vless://ec09b53b-b353-4782-a99b-9b77a87fc901@cpanel.sibdoni.com:443?security=reality&sni=www.speedtest.net&fp=randomized&pbk=lUIo-b2DdbuJhu91aWS39i9KLClqCtbY_IMa0pbHYl8&sid=c3107bb39b358c2f&type=tcp&flow=xtls-rprx-vision&encryption=none#Irancell%20Reality
 
-https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
+vmess://eyJhZGQiOiAicGFuZWwuZWFzeS1zd2FwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogInd3dy50Z2p1Lm9yZyIsICJpZCI6ICJlYzA5YjUzYi1iMzUzLTQ3ODItYTk5Yi05Yjc3YTg3ZmM5MDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3Byb2ZpbGUvZ29sZF9tZWx0ZWRfd2hvbGVzYWxlIiwgInBvcnQiOiAiODAiLCAicHMiOiAiSXJhbmNlbGwgTmV3IC0gQGdvb2RwaWluZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
+vmess://eyJhZGQiOiAiaXIuc2liZG9uaS5jb20iLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJnbGNnanRpbWx0X28tZy1nX2ctZy1nLWctZy1nLWctZy1nLS0wLXhuLWZnLWctZy1fLWctZy1nLWctZzFyLS5tb25pc29yLmluZm8iLCAiaWQiOiAiZWMwOWI1M2ItYjM1My00NzgyLWE5OWItOWI3N2E4N2ZjOTAxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ncmFwaHFsIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICJWTUVTUyBJcmFuY2VsbCAyMDI0IC0gQGdvb2RwaWluZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2xjZ2p0aW1sdF9vLWctZ19nLWctZy1nLWctZy1nLWctZy0tMC14bi1mZy1nLWctXy1nLWctZy1nLWcxci0ubW9uaXNvci5pbmZvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-https://proxy.yugogo.xyz/ss/sub
-https://proxy.yugogo.xyz/vmess/sub
-https://proxy.yugogo.xyz/trojan/sub
+vless://ec09b53b-b353-4782-a99b-9b77a87fc901@ir.sibdoni.com:443?security=tls&sni=holdp4o_o-g-g_g-g-g-g-g-g-g-g-g0-xn-fg-g-g-_-g-g-g-g-g1r-.karamoj.net&type=ws&path=/graphql&host=holdp4o_o-g-g_g-g-g-g-g-g-g-g-g0-xn-fg-g-g-_-g-g-g-g-g1r-.karamoj.net&encryption=none#VLESS-Irancell-2024
 
-https://free.jingfu.cf/ss/sub
-https://free.jingfu.cf/vmess/sub
-https://free.jingfu.cf/trojan/sub
+vless://0033e767-21da-4bec-b943-fdf5bf47f3d4@api.easy-swap.net:2083?security=tls&sni=gibtfmnmlc_o-g-g_g-g-g-g-g-g-g-g-g0-xn-fg-g-g-_-g-g-g-g-g1r-.jamakoper.info&type=ws&path=/koral&fp=chrome&host=gibtfmnmlc_o-g-g_g-g-g-g-g-g-g-g-g0-xn-fg-g-g-_-g-g-g-g-g1r-.jamakoper.info&encryption=none#ViP-1
 
-https://proxy.crazygeeky.com/vmess/sub
-https://proxy.crazygeeky.com/ss/sub
+vmess://eyJhZGQiOiAiYXBpLmVhc3ktc3dhcC5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJnaWJ0Zm1ubWxjX28tZy1nX2ctZy1nLWctZy1nLWctZy1nLS0wLXhuLWZnLWctZy1fLWctZy1nLWctZzFyLS5qYW5lYmlkb25pLmNvbSIsICJpZCI6ICIwMDMzZTc2Ny0yMWRhLTRiZWMtYjk0My1mZGY1YmY0N2YzZDQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvd25sb2FkIiwgInBvcnQiOiAiMjA4MiIsICJwcyI6ICJWaVAgNSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-https://proxypool.link/ss/sub
-https://proxypool.link/vmess/sub
 
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+vmess://eyJhZGQiOiAibW9raC5lYXN5LXN3YXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiYXBpNi5tY2dvbGQuc2l0ZSIsICJpZCI6ICIwMDMzZTc2Ny0yMWRhLTRiZWMtYjk0My1mZGY1YmY0N2YzZDQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvd25sb2FkIiwgInBvcnQiOiAiMjA4MiIsICJwcyI6ICJWaVAgMiAtIEBnb29kcGlpbmciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
-
-https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
-
-https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different-Base64
-
-https://alienvpn402.github.io/AlienVPN402-subscribe-servers-sing-box/
-
-https://raw.githubusercontent.com/freefq/free/master/v2
-
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
-
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
-
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
-
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
-
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
-
-https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/tr
-
-https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
-
-https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all
-
-https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/vless
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
-
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/networks/grpc
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/networks/http
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/networks/ws
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/networks/tcp
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/security/tls
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/layers/ipv6
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/security/non-tls
-        
-https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/layers/ipv4
-
-https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
-
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
-
-https://raw.githubusercontent.com/ImMyron/V2ray/main/V2ray.txt
+vmess://eyJhZGQiOiAiaXJjLmVhc3ktc3dhcC5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJhcGk2Lm1jZ29sZC5zaXRlIiwgImlkIjogIjAwMzNlNzY3LTIxZGEtNGJlYy1iOTQzLWZkZjViZjQ3ZjNkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZG93bmxvYWQiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJJcmFuY2VsbCBWaVAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
