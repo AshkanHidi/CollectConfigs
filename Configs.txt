@@ -1,2 +1,2 @@
 #profile-title: â˜¬ SHÎžÐ¯VINâ„¢ | HIN MINER #profile-update-interval: 1 #subscription-userinfo: upload=100; download=100; total=5048; expire= 44462495316 #support-url: isherv.in #profile-web-page-url: isherv.in
-https://see.ashkanhidi.ir/sub/128a0579-8768-46ce-bdef-f6707e08b865#BPB-Normal
+warp://162.159.192.179:7103/ifp=5-10#Iran&&detour=warp://162.159.192.185:7103/ifp=5-10#Germany
